@@ -43,3 +43,4 @@ console.log(subtract(90,0.5))
 console.log(exponent(0.8))
 console.log(multiply(6,4))
  
+
